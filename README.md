@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/K6pzY2MtfdmFUhP68KYKGB/NJEhxAabZYuqESsJUHg2xq/tree/main.svg?style=svg&circle-token=5751ab6e87e08d1405078ab9db0b52408f39f24e)](https://dl.circleci.com/status-badge/redirect/circleci/K6pzY2MtfdmFUhP68KYKGB/NJEhxAabZYuqESsJUHg2xq/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/K6pzY2MtfdmFUhP68KYKGB/NJEhxAabZYuqESsJUHg2xq/tree/circleci-project-setup.svg?style=svg&circle-token=8406b30857f8b969059b27966b0927aca4bcedff)](https://dl.circleci.com/status-badge/redirect/circleci/K6pzY2MtfdmFUhP68KYKGB/NJEhxAabZYuqESsJUHg2xq/tree/circleci-project-setup)
 
 # Testing Spring Boot B2G - SFG Brewery
 
